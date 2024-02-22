@@ -6,8 +6,8 @@ I have been studying and practicing Frontend development for more than a year. I
 I am currently studying **Python** and **SQL**. All my projects are built from the ground up, from planning the idea to making it happen. I always create the whole app thinking about how it can help the user.
 
 ---
-## Languages and Tools 🧰
-<div style="display: flex">
+
+### Languages and Tools 🧰
 <img style="padding-right: 10px;" align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img style="padding-right: 10px;" align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img style="padding-right: 10px;" align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
@@ -18,11 +18,14 @@ I am currently studying **Python** and **SQL**. All my projects are built from t
 <img style="padding-right: 10px;" align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img style="padding-right: 10px;" align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img style="padding-right: 10px;" align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  
-</div>
-          
-          
+<br />
 
+#
+
+### Stats 📊
+![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianP14&show_icons=true&theme=gruvbox)
+          
+#
 <!--
 **JulianP14/JulianP14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
